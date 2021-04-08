@@ -4,6 +4,4 @@
 
 ## NEW GIT SUB TITLE
 > Bestway to understand.
-
-
-* working on Development.
+> FIXED FROM V3 BRANCH
